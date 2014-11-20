@@ -246,7 +246,7 @@ int id action_context_bar 0x7f09001d
 int id action_menu_divider 0x7f090002
 int id action_menu_presenter 0x7f090003
 int id action_mode_close_button 0x7f090024
-int id action_settings 0x7f090040
+int id action_settings 0x7f090041
 int id activity_chooser_view_content 0x7f090025
 int id always 0x7f09000f
 int id beginning 0x7f090016
@@ -295,6 +295,7 @@ int id tabMode 0x7f090008
 int id textView1 0x7f09003c
 int id textView2 0x7f09003e
 int id textView3 0x7f09003f
+int id textView4 0x7f090040
 int id title 0x7f09002b
 int id top_action_bar 0x7f090020
 int id up 0x7f090021
