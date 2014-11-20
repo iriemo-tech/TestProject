@@ -15,12 +15,14 @@
         android:text="@string/hello_world" />
 
     <Button
-        android:id="@+id/button1"
+        android:id="@+id/submitBtn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView1"
         android:layout_below="@+id/textView1"
-        android:layout_marginTop="46dp"
-        android:layout_toRightOf="@+id/textView1"
-        android:text="Button" />
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="35dp"
+        android:text="Submit" 
+        android:background="@android:color/holo_blue_dark"/>
 
 </RelativeLayout>
