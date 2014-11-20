@@ -10,7 +10,7 @@ import android.widget.Toast;
 
 public class MainActivity extends ActionBarActivity {
 
-	//Comment by Ismail
+	//Comment by Pankaj
 	Button submitButton;
 	
 	@Override
